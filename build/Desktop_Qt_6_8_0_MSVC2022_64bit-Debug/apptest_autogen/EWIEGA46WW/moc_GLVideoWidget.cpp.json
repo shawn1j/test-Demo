@@ -1,0 +1,92 @@
+{
+    "classes": [
+        {
+            "classInfos": [
+                {
+                    "name": "QML.Element",
+                    "value": "auto"
+                }
+            ],
+            "className": "GLVideoWidget",
+            "lineNumber": 14,
+            "object": true,
+            "qualifiedClassName": "GLVideoWidget",
+            "slots": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "window",
+                            "type": "QQuickWindow*"
+                        }
+                    ],
+                    "index": 0,
+                    "name": "handleWindowChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "guiSync",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 2,
+                    "name": "cleanup",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QQuickItem"
+                }
+            ]
+        },
+        {
+            "className": "VideoGLRenderer",
+            "lineNumber": 42,
+            "object": true,
+            "qualifiedClassName": "VideoGLRenderer",
+            "slots": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "initRenderer",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "paint",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "window",
+                            "type": "QQuickWindow*"
+                        }
+                    ],
+                    "index": 2,
+                    "name": "setWindow",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                },
+                {
+                    "access": "protected",
+                    "name": "QOpenGLFunctions"
+                }
+            ]
+        }
+    ],
+    "inputFile": "GLVideoWidget.h",
+    "outputRevision": 68
+}
