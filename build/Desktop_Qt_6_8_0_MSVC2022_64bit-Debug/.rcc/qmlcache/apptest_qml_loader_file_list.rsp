@@ -1,0 +1,5 @@
+--resource
+E:/qt_project/qmlTestProject/test/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.qt/rcc/qmake_test.qrc
+--resource
+E:/qt_project/qmlTestProject/test/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.qt/rcc/apptest_raw_qml_0.qrc
+/qt/qml/test/Main.qml

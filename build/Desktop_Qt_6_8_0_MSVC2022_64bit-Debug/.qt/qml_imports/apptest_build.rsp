@@ -1,0 +1,14 @@
+-rootPath
+E:/qt_project/qmlTestProject/test
+-cmake-output
+-output-file
+E:/qt_project/qmlTestProject/test/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.qt/qml_imports/apptest_build.cmake
+-importPath
+E:/qt_project/qmlTestProject/test/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/test
+-importPath
+E:/qt_project/qmlTestProject/test/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug
+-importPath
+D:/Qt/6.8.0/msvc2022_64/qml
+-qrcFiles
+E:/qt_project/qmlTestProject/test/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.qt/rcc/qmake_test.qrc
+E:/qt_project/qmlTestProject/test/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.qt/rcc/apptest_raw_qml_0.qrc
