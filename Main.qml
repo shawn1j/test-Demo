@@ -15,9 +15,11 @@ ApplicationWindow {
 
     menuBar: MenuBar {
         Menu {
+
             title: qsTr("file")
             MenuItem {
                 text: qsTr("open")
+
             }
         }
     }
@@ -57,7 +59,9 @@ ApplicationWindow {
         anchors.bottom: parent.bottom
         anchors.leftMargin: 0
         anchors.rightMargin: 0
-        anchors.bottomMargin: 25
+
+        anchors.bottomMargin: 20
+
 
         Button {
                    id: privious_button
